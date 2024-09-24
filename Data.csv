@@ -1,4 +1,3 @@
-Id;Nombre;Estado de la partición;ID de partición;Tipo de SO;Versión de SO;Procesador asignado;Memoria asignada (GB)
 172.21.15.30;SRVWCAAPBTT01;running;15;AIX/Linux;AIX 7.2 7200-05-08-2419;2;12288
 172.21.15.31;SRVWCAAPESB01;running;14;AIX/Linux;AIX 7.2 7200-05-08-2419;1;30720
 172.21.15.32;SRVWCADB01;running;26;AIX/Linux;AIX 7.2 7200-05-08-2419;1;30720
